@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         Context context = getApplicationContext();
-        CharSequence text = "A Malta aqui programa pah!";
+        CharSequence text = "A Malta aqui programa 0!";
         int duration = Toast.LENGTH_SHORT;
 
         Toast toast = Toast.makeText(context, text, duration);
